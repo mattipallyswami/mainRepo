@@ -7,7 +7,7 @@ public class AppTest {
 
 		Arithmatic  ar =new Arithmatic();
 		 System.out.println("sum:"+ar.sum(10, 20));
-		 System.out.println("sub:"+ar.sub(200, 20));
+		 System.out.println("sub:"+ar.sub(200, 20)); // 456
 		 System.out.println("sub:"+ar.sub(200, 20));
 		
 		
