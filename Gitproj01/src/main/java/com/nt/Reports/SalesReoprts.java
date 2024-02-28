@@ -8,5 +8,10 @@ public class SalesReoprts {
 	{
 		
 	}
+	public void  monthlyReport()
+	{
+		System.out.println("mothly report");
+	}
+	
 
 }
