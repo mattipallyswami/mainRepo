@@ -14,7 +14,10 @@ public class PaymentOperationsService {
 		return "deditCrad Opertaion Suscess";
 	}
 
-	
+	public void doUpi()
+	{
+		
+	}
 	
 	
 }
