@@ -12,6 +12,16 @@ public class SalesReoprts {
 	{
 		System.out.println("mothly report");
 	}
-	
-
+	public void excelreport()
+	{
+		
+	}
+	public void docreport()
+	{
+		
+	}
+	public void finaReport()
+	{
+		
+	}
 }
