@@ -24,4 +24,8 @@ public class SalesReoprts {
 	{
 		
 	}
+	public void finaReport22()
+	{
+		
+	}
 }
