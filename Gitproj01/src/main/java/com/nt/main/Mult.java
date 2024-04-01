@@ -13,8 +13,10 @@ public class Mult {
 
 	
 	
-	public void sub()
+	public int sub()
 	{
+		int b=10,a=20,c;
+		return a-b;
 		
 	}
 }
