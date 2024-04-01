@@ -2,8 +2,12 @@ package com.nt.main;
 
 public class Mult {
 	
-	public void multipluication()
+	public int  multipluication()
 	{
+		
+		int a=10,b=20,c;
+		
+	return c=200;
 		
 	}
 
