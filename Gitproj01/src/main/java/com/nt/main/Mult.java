@@ -11,4 +11,10 @@ public class Mult {
 		
 	}
 
+	
+	
+	public void sub()
+	{
+		
+	}
 }
